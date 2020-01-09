@@ -8,6 +8,9 @@
   }
 
 .jumbo-right {
+    position: absolute;
+    left: 900px;
+    top: 0px;
     background-color: #52BF95;
     border-radius: 51px;
     width: 540px;
@@ -16,7 +19,7 @@
   .green-h1 {
     position: absolute;
     left: 183px;
-    top: 146px;
+    top: 100px;
     background-color: #52BF95;
     border-radius: 51px;
     width: 528px;
@@ -40,7 +43,7 @@
 .form-position{
     position: absolute;
     left: 180.5px;
-    top: 360px;
+    top: 300px;
   }
 .form-username{
     position: relative;
@@ -76,7 +79,7 @@
   .account-text {
     position: absolute;
     left: 317px;
-    top: 850px;
+    top: 750px;
     color: #47525E;
     font-family: Lato;
     font-size: 26px;
@@ -88,11 +91,43 @@
   .sign-up-link {
     position: absolute;
     left: 363px;
-    top: 900px;
+    top: 800px;
     color: #ED6A5A;
     font-family: Lato;
     font-size: 26px;
     font-weight: 900;
     line-height: 33px;
     text-align: left;
+  }
+
+  .instant-login {
+    position: absolute;
+    left: 970px;
+    top: 332px;
+    color: #FFFFFF;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 50px;
+    width: 400px;
+    text-align: center;
+  }
+  .form-right{
+    position: absolute;
+    left: 1037px;
+    top: 400px;
+  }
+  .form-Instant {
+    background-color: #FFFFFF;
+    border: 1px solid #8492A6;
+    border-radius: 26px;
+    width: 265px;
+    height: 50px;
+  }
+  .form-Instant-button {
+    background-color: #ED6A5A;
+    border: 1px solid #8492A6;
+    border-radius: 100px;
+    width: 245.76px;
+    height: 64px;
   }
