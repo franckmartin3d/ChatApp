@@ -1,0 +1,98 @@
+
+
+.jumbo-left { 
+    background-color: #FFFBF4;
+    border-radius: 61px;
+    width: 900px;
+    height: 1024px;
+  }
+
+.jumbo-right {
+    background-color: #52BF95;
+    border-radius: 51px;
+    width: 540px;
+    height: 1024px;
+  }
+  .green-h1 {
+    position: absolute;
+    left: 183px;
+    top: 146px;
+    background-color: #52BF95;
+    border-radius: 51px;
+    width: 528px;
+    height: 186px;
+    
+  }
+.sign-in{
+    position: relative;
+    left: 67px;
+    top: 51px;
+    color: #FFFFFF;
+    font-family: Lato;
+    font-size: 70px;
+    font-weight: 700;
+    line-height: 50px;
+    width: 400px;
+    text-align: center;
+
+}
+
+.form-position{
+    position: absolute;
+    left: 180.5px;
+    top: 360px;
+  }
+.form-username{
+    position: relative;
+    left: 20px;
+    top: 20px;
+    background-color: rgba(150, 159, 170, 0.27);
+    border: 1px solid #8492A6;
+    border-radius: 47px;
+    width: 500px;
+    height: 58px;
+  }
+
+.form-username2{
+    position: relative;
+    left: 20px;
+    top: 60px;
+    background-color: rgba(150, 159, 170, 0.27);
+    border: 1px solid #8492A6;
+    border-radius: 47px;
+    width: 500px;
+    height: 58px;
+  }
+  .form-button {
+    position: relative;
+    left: 20px;
+    top: 80px;
+    background-color: #ED6A5A;
+    border-radius: 100px;
+    width: 500px;
+    height: 62px;
+  }
+
+  .account-text {
+    position: absolute;
+    left: 317px;
+    top: 850px;
+    color: #47525E;
+    font-family: Lato;
+    font-size: 26px;
+    font-weight: 900;
+    line-height: 33px;
+    text-align: left;
+  }
+
+  .sign-up-link {
+    position: absolute;
+    left: 363px;
+    top: 900px;
+    color: #ED6A5A;
+    font-family: Lato;
+    font-size: 26px;
+    font-weight: 900;
+    line-height: 33px;
+    text-align: left;
+  }
