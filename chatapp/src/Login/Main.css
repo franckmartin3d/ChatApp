@@ -1,0 +1,108 @@
+.user-green {
+    position: absolute;
+    left: 5px;
+    top: 5px;
+    background-color: #52BF95;
+    border-radius: 51px;
+    width: 338px;
+    height: 818px;
+  }
+  .user-position {
+    position: absolute;
+    left: 120px;
+    top: 36px;
+  }
+  .user-text {
+    color: #FFFFFF;
+    font-family: Lato;
+    font-size: 34px;
+    font-weight: 900;
+    line-height: 44px;
+    text-align: left;
+  }
+  .user-available {
+    position: relative;
+    left: 0px;
+    top: 36px;
+    color: #FFFFFF;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 33px;
+    text-align: Center;
+  }
+  .text-board {
+    position: absolute;
+    left: 370px;
+    top: 5px;
+    background-color: #52BF95;
+    border: 1px solid #8492A6;
+    border-radius: 90px;
+    opacity: 0.2;
+    width: 1051px;
+    height: 818px;
+  }
+  .form-text {
+    position: absolute;
+    left: 5px;
+    top: 850px;
+    background-color: #E8E8E8;
+    border: 1px solid #8492A6;
+    border-radius: 45px;
+    width: 1129px;
+    height: 101px;
+}
+
+    .send-button {
+        position: absolute;
+        left: 1160px;
+        top: 850px;
+        background-color: #ED6A5A;
+        border-radius: 100px;
+        width: 260.32px;
+        height: 102px;
+      }
+
+
+      .signed-in {
+        position: absolute;
+        left: 39px;
+        top: 972px;
+        color: #47525E;
+        font-family: Lato;
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 34px;
+        width: 400px;
+        text-align: center;
+      }
+      .footer-login-page {
+        position: absolute;
+        left: 657px;
+        top: 972px;
+        color: #ED6A5A;
+        font-family: Lato;
+        font-size: 26px;
+        font-weight: 900;
+        line-height: 33px;
+        text-align: center;
+      }
+      .footer-portfolio {
+        position: absolute;
+        left: 1025px;
+        top: 972px;
+        color: #52BF95;
+        font-family: Lato;
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 34px;
+        width: 400px;
+        text-align: center;
+      }
+      
+      
+  
+  
+  
+  
+  

@@ -6,6 +6,7 @@ import { BrowserRouter, Route } from "react-router-dom";
 // App components
 import Login from "././Login/Login";
 import SignUp from "./Login/SignUp";
+import Main from "./Login/Main";
 
 
 class App extends Component {
@@ -14,6 +15,7 @@ class App extends Component {
       <BrowserRouter>
         <Route exact path="/" component={Login} />
         <Route path="/SignUp" component={SignUp} />
+        <Route path="/Main" component={Main} />
       </BrowserRouter>
     );
   }
