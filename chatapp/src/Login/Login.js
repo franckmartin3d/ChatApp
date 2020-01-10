@@ -3,6 +3,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "./Login.css";
 import { Form } from "react-bootstrap";
 import { Button } from "react-bootstrap";
+import {Link} from 'react-router-dom';
 
 export class Login extends Component {
   render() {
@@ -31,13 +32,16 @@ export class Login extends Component {
             </Form.Group>
 
             <Button className="form-button" type="submit">
-              Submit
+              SIGN IN
             </Button>
           </Form>
         </div>
         {/* Account */}
         <div className="account-text">Don't have an account?</div>
+        <Link to="/SignUp">
         <div className="sign-up-link">SIGN UP NOW</div>
+        </Link>
+
 
         {/* Jumbo right */}
         <div className="jumbo-right"></div>
