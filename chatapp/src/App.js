@@ -7,13 +7,14 @@ import { BrowserRouter, Route } from "react-router-dom";
 import Login from "././Login/Login";
 import SignUp from "./Login/SignUp";
 import Main from "./Login/Main";
+import flexLogin from "./Login/flexLogin";
 
 
 class App extends Component {
   render() {
     return (
       <BrowserRouter>
-        <Route exact path="/" component={Login} />
+        <Route exact path="/" component={flexLogin} />
         <Route path="/SignUp" component={SignUp} />
         <Route path="/Main" component={Main} />
       </BrowserRouter>
