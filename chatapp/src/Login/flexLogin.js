@@ -12,8 +12,7 @@ export class flexLogin extends Component {
             <div className= "page">
                 <div className="left-login">
                     <div className="sign-in-container">
-                        white....FUCK
-                        etegsdsgd
+                        center center
                     </div>
                 </div>
 
