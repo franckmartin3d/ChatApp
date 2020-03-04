@@ -14,7 +14,7 @@ class App extends Component {
   render() {
     return (
       <BrowserRouter>
-        <Route exact path="/" component={flexLogin} />
+        <Route exact path="/" component={Login} />
         <Route path="/SignUp" component={SignUp} />
         <Route path="/Main" component={Main} />
       </BrowserRouter>
