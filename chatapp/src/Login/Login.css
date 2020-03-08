@@ -102,7 +102,7 @@
 
   .instant-login {
     position: absolute;
-    left: 970px;
+    /* left: 970px; */
     top: 332px;
     color: #FFFFFF;
     font-family: Lato;
@@ -114,7 +114,7 @@
   }
   .form-right{
     position: absolute;
-    left: 1037px;
+    /* left: 1037px; */
     top: 400px;
   }
   .form-Instant {
